@@ -1,6 +1,6 @@
 # Best Photo Recovery Software: 8 Tools to Recover Deleted Photos
 
-![gfg](profile/1.png)
+![gfg](1.png)
 
 Losing important photos can be stressful, especially when they contain personal memories, professional work, or valuable moments. Photos may disappear because of accidental deletion, formatting, memory card errors, corrupted storage devices, or unexpected system problems.
 
