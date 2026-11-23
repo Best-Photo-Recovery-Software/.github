@@ -1,5 +1,7 @@
 # Best Photo Recovery Software: 8 Tools to Recover Deleted Photos
 
+![gfg](Best Photo Recovery Software 8 Tools to Recover Deleted Photos.png)
+
 Losing important photos can be stressful, especially when they contain personal memories, professional work, or valuable moments. Photos may disappear because of accidental deletion, formatting, memory card errors, corrupted storage devices, or unexpected system problems.
 
 [**Photo recovery software**](https://www.yttags.com/best-photo-recovery-software/) helps users scan storage devices and attempt to restore deleted or inaccessible images. Depending on the situation, these tools may recover photos from SD cards, USB drives, hard disks, SSDs, and other supported storage media.
